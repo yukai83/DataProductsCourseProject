@@ -1,0 +1,48 @@
+"Choose the Best Car to Buy" App Presentation
+========================================================
+author: Yukai
+date: 15-Aug-16
+autosize: true
+
+Introduction: The App's Inputs
+========================================================
+
+"Choose the Best Car to Buy" App asks the user for the following inputs, which are characteristics of the car they are looking for:
+
+- Minimum Miles per Gallon requirement of the car
+- Gross Horsepower of the car
+- Number of Cylinders the car engine has (4, 6 or 8)
+- Transmission of the engine (Automatic or Manual)
+- Approximate number of miles that the car would be driven per week
+
+Introduction: The App's Outputs
+========================================================
+
+From the user inputs, the "Choose the Best Car to Buy" App creates a table of outputs of potential cars which the user can buy, which are results filtered based on the user's requirements. The dataset used is the mtcars dataset in R.
+
+Users can then choose the car that best matches their requirements, and consider them for purchase. It's that simple! Try it out today!
+
+Next we will go on to how the code in the App works.
+
+The Dataset used by App: "mtcars""
+========================================================
+
+The app makes use of the mtcars dataset in R. 
+Below is a summary of the variables of the dataset
+
+```{r}
+colnames(mtcars)
+```
+
+These variables are used to filter the results.
+
+The Dataset used by App: "mtcars"" Summary
+========================================================
+
+In Summary, these are some details of the mtcars dataset used in the app.
+```{r}
+head(mtcars)
+```
+```{r}
+tail(mtcars)
+```
