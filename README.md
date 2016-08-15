@@ -7,7 +7,7 @@ The app developed for the first part of the assignment is avalilable at:
  https://yukai83.shinyapps.io/DataProductsCourseProject
 
 # (Part 2)
-Second, we should use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about the application.
+Second, we use Rstudio Presenter to prepare a reproducible pitch presentation about the application.
 
 The presentation is available at: https://github.com/yukai83/DataProductsCourseProject/Slidify/Index
 Files for the presentation are avalilable on the GitHub: https://github.com/yukai83/DataProductsCourseProject
